@@ -1,6 +1,6 @@
 # Potato Plinko
 
-Potato Plinko is a game similar to plinko, but instead of little pegs controlling your fate, it's 2 electric fans (out of frame) forcing your tater tot to sway around down. 
+Potato Plinko is a game similar to Plinko, but instead of little pegs controlling your fate, it's 2 electric fans (out of frame) forcing your tater tot to sway around down. 
 
 # Credits
 
